@@ -1,0 +1,5 @@
+Link do projeto: https://github.com/andressalh/atividade16
+
+Andressa Leite e Luiz Guilherme
+
+O teste de cadastro so irá funcionar, se os dados de entradas foram diferentes. 
